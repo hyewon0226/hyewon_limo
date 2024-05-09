@@ -1,0 +1,2 @@
+test2
+-DCATKIN_DEVEL_PREFIX=/home/prtty/test_ws/devel -DCMAKE_INSTALL_PREFIX=/home/prtty/test_ws/install -G Unix Makefiles
